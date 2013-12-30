@@ -8,6 +8,8 @@ using System.Text;
 using System.Windows.Forms;
 using System.IO;
 
+/* Hola, prueba */
+
 namespace Vision
 {
     public partial class FilterForm : Form
